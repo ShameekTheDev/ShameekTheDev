@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm ShameekTheDev</h1><video>https://github.com/SamirJanaOfficial/samirjanaofficial/blob/main/gifs/Hi.gif</video>
+<h1 align="center">Hi there, I'm Shameek! <img src="https://github.com/SamirJanaOfficial/samirjanaofficial/blob/main/gifs/Hi.gif" width="35px"></h1>
 <h3 align="center">Founder of @YourUI_Offial from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shameekthedev&label=Profile%20views&color=0e75b6&style=flat" alt="shameekthedev" /> </p>
