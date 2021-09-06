@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **JavaScript and React JS**
 
-- 🤝Collaborated with [Niotron](niotron)
+- 🤝Collaborated with [Niotron](https://github.com/Niotron)
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShameekTheDev?tab=repositories](https://github.com/ShameekTheDev?tab=repositories)
 
