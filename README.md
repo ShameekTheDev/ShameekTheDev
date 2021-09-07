@@ -1,7 +1,7 @@
 <span align="center">
  <h1>Hi there, I am Shameek 👨‍💻 👦 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-[![](https://img.icons8.com/material-two-tone/32/000000/instagram-new.png)](https://www.instagram.com/power.dev.shameek.biswas/)
+[![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png)](https://www.instagram.com/power.dev.shameek.biswas/)
 
 </span>
 
