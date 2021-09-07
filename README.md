@@ -1,7 +1,7 @@
 <span align="center">
- <h1>Hi there, I am Shameek 👨‍💻 👦 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+ <h1>Hi there, I am Shameek <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-[![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png)](https://www.instagram.com/power.dev.shameek.biswas/)
+[![](https://cdn-icons-png.flaticon.com/512/2111/2111463.png)](https://www.instagram.com/power.dev.shameek.biswas/)
 
 </span>
 
@@ -9,7 +9,7 @@
  
 <div>
 
-- 🔭 I’m *currently* or *coding* on my **YU IDE** 👨‍💻
+- 🔭 I’m *currently* or *coding* on **YU IDE** 👨‍💻
 - 🌱 I’m currently learning ReactJS, NodeJS and Java.
 - 💬 Ask me about anything, anytime 😄
 - 😄 Pronouns: He/Him 😌.
