@@ -36,3 +36,4 @@
 ---------------------------------------------------------
 My Streak
 <img scr="https://github-readme-streak-stats.herokuapp.com/?user=shameekthedev&">
+![image title](https://rushter.com/counter.svg)
