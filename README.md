@@ -1,8 +1,8 @@
 <span align="center">
  <h1>Hi there, I am Shameek <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-[Instagram](https://www.instagram.com/power.dev.shameek.biswas/)
-
+[Follow me on Instagram](https://www.instagram.com/power.dev.shameek.biswas/)
+<hr>
 </span>
 
 <img src="https://miro.medium.com/max/2800/1*BU7f02LeQeELztqxa8eCmw.gif" align="right" alt="Coder GIF" width="480" height="300">
