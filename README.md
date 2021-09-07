@@ -5,7 +5,7 @@
 <hr>
 </span>
 
-<img src="https://miro.medium.com/max/2800/1*BU7f02LeQeELztqxa8eCmw.gif" align="right" alt="Coder GIF" width="480" height="300">
+<img src="https://media0.giphy.com/media/L8K62iTDkzGX6/giphy.gif?cid=ecf05e47fkipy4imwscvqyf4ji2ozuzet6rffihacyr5j0pb&rid=giphy.gif&ct=g" align="right" alt="Coder GIF" width="480" height="300">
  
 <div>
 
