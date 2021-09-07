@@ -1,7 +1,7 @@
 <span align="center">
  <h1>Hi there, I am Shameek <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-<img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491580635-yumminkysocialmedia26_83102.png" alt="instagram" href="https://www.instagram.com/power.dev.shameek.biswas/" style="width:50px;height:50px;">Instagram</img>
+<img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491580635-yumminkysocialmedia26_83102.png" alt="instagram" href="https://www.instagram.com/power.dev.shameek.biswas/" style="width:50px;height:50px;"></img>
 <hr>
 </span>
 
