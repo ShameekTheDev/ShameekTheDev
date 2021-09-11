@@ -9,11 +9,11 @@
  
 <div>
 
-- 🔭 I’m *currently* or *coding* on **YU IDE** 👨‍💻
+- 🔭 I’m *currently* or *coding* on **Upcoming Major Update of @YourUIOfficial** 👨‍💻
 - 🌱 I’m currently learning ReactJS, NodeJS and Java.
 - 💬 Ask me about anything, anytime 😄
 - 😄 Pronouns: He/Him 😌.
-- ⚡ Fun fact: I am a tea dependent life form.
+- ⚡ Fun fact: Doing coding in between classes...😁.
 
 </div>
 
