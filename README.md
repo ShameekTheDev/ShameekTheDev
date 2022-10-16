@@ -30,4 +30,4 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c)
 
-![ShameekTheDev's Stats](https://github-readme-stats.vercel.app/api?username=ShameekTheDev&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+![ShameekTheDev's Stats](https://github-readme-stats.vercel.app/api?username=ShameekTheDev&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)![ShameekTheDev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShameekTheDev&theme=tokyonight&hide_border=false)![ShameekTheDev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShameekTheDev&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
