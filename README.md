@@ -1,11 +1,11 @@
 <span align="center">
  <h1>Hi there, I am Shameek <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+</span>
 
  <h3><a style="text-decoration: none;">Social Links</a></h3><br>
  
 <a style="text-decoration: none;" href="https://www.instagram.com/shameek_______biswas/"><img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491580635-yumminkysocialmedia26_83102.png" alt="instagram" style="width:50px;height:50px;"></img></a>
 <hr>
-</span>
 
 <img src="https://media0.giphy.com/media/L8K62iTDkzGX6/giphy.gif?cid=ecf05e47fkipy4imwscvqyf4ji2ozuzet6rffihacyr5j0pb&rid=giphy.gif&ct=g" align="right" alt="Coder GIF" width="480" height="300">
  
