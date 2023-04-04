@@ -10,16 +10,15 @@
 <div>
 
 - 🔭 I’m *currently* working on **heyDocs** 👨‍💻
-- 🌱 I’m currently learning ReactJS, NodeJS and Java.
+- 🌱 I’m currently learning ReactJS.
 - 💬 Ask me about anything, anytime 😄
 - 😄 Pronouns: He/Him 😌.
-- ⚡ Fun fact: Doing coding in between classes...😁.
+- ⚡ Fun fact: A graphic designer as well...😁.
 
 </div>
 
 **Frameworks and Stack**
 
-![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-black?style=for-the-badge&logo=tailwindcss)
@@ -28,6 +27,5 @@
 **Languages**
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c)
 
 ![ShameekTheDev's Stats](https://github-readme-stats.vercel.app/api?username=ShameekTheDev&theme=dark&show_icons=true&hide_border=true&count_private=true) ![ShameekTheDev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShameekTheDev&theme=dark&hide_border=true) ![ShameekTheDev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShameekTheDev&theme=dark&show_icons=true&hide_border=true&layout=compact)
