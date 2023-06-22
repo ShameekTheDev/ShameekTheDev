@@ -3,8 +3,8 @@
 </span>
 
  <h3><a style="text-decoration: none;">Links -</a></h3>
- 
-<a style="text-decoration: none;" href="https://www.instagram.com/shameek_______biswas/"><img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491580635-yumminkysocialmedia26_83102.png" alt="instagram" style="width:50px;height:50px;"></img></a>&nbsp;
+<!-- 
+<a style="text-decoration: none;" href="https://www.instagram.com/shameek_______biswas/"><img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491580635-yumminkysocialmedia26_83102.png" alt="instagram" style="width:50px;height:50px;"></img></a>&nbsp;-->
 <a style="text-decoration: none;" href="https://www.dribbble.com/PowerDev_Official"><img src="https://cdn.dribbble.com/assets/favicon-b38525134603b9513174ec887944bde1a869eb6cd414f4d640ee48ab2a15a26b.ico" alt="dribbble" style="width:50px;height:50px;"></img></a>
 <hr>
 
