@@ -31,4 +31,7 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 
+<h3 align="left">Design:</h3>
+<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> </p>
+
 ![ShameekTheDev's Stats](https://github-readme-stats.vercel.app/api?username=ShameekTheDev&theme=dark&show_icons=true&hide_border=true&count_private=true) ![ShameekTheDev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShameekTheDev&theme=dark&hide_border=true) ![ShameekTheDev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShameekTheDev&theme=dark&show_icons=true&hide_border=true&layout=compact)
