@@ -12,7 +12,7 @@
  
 <div>
 
-- 🔭 I’m *currently* working on **heyDocs** 👨‍💻
+- 🔭 I’m *currently* working on **Educational App and Website** 👨‍💻
 - 🌱 I’m currently learning ReactJS.
 - 💬 Ask me about anything, anytime 😄
 - 😄 Pronouns: He/Him 😌.
