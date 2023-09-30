@@ -15,7 +15,7 @@
 - 🔭 *Currently* working on **Educational App and Website** 👨‍💻
 - 🌱 I’m currently learning **Electron**.
 - 💬 Ask me about anything, anytime 😄
-- 😄 Pronouns: He/Him 😌.
+- 😄 Pronouns: He/Him .
 - ⚡ Fun fact: A graphic designer as well...😁.
 
 </div>
