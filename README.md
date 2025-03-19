@@ -12,7 +12,7 @@
  
 <div>
 
-- 🔭 *Currently* working on **Educational App and Website** 👨‍💻
+- 🔭 *Currently* working on **Rebuilding Myself** 👨‍💻
 - 🌱 I’m currently learning **Flutter**.
 - 💬 Ask me about anything, anytime 😄
 - 😄 Pronouns: He/Him .
