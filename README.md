@@ -13,7 +13,7 @@
 <div>
 
 - 🔭 *Currently* working on **Rebuilding Myself** 👨‍💻
-- 🌱 I’m currently learning **Flutter**.
+- 🌱 I’m currently learning **React.js**.
 - 💬 Ask me about anything, anytime 😄
 - 😄 Pronouns: He/Him .
 - ⚡ Fun fact: A graphic designer as well...😁.
