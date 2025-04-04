@@ -2,7 +2,6 @@
  <h1>Hi there, I am Shameek <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 </span>
 
- <h3><a style="text-decoration: none;">Links -</a></h3>
 <!-- 
 <a style="text-decoration: none;" href="https://www.instagram.com/shameek_______biswas/"><img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491580635-yumminkysocialmedia26_83102.png" alt="instagram" style="width:50px;height:50px;"></img></a>&nbsp;-->
 <a style="text-decoration: none;" href="https://www.dribbble.com/PowerDev_Official"><img src="https://cdn.dribbble.com/assets/favicon-192x192-d70ad402693bdd1a8460da7f9f3c590e817da7369c5287789ac968cf6947d214.png" alt="dribbble" style="width:50px;height:50px;"></img></a>
