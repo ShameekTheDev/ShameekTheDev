@@ -50,6 +50,6 @@
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
 </div>
 
-<a href="https://app.daily.dev/power_dev"><img src="https://api.daily.dev/devcards/v2/aYjKTNZrPzRdiaFWBlx3I.png?type=wide&r=2yd" width="100%" alt="Shameek Biswas's Dev Card"/></a>
+<a href="https://app.daily.dev/power_dev"><img src="https://api.daily.dev/devcards/v2/aYjKTNZrPzRdiaFWBlx3I.png?type=wide&r=2yd" height="652px" alt="Shameek Biswas's Dev Card"/></a>
 
 ![ShameekTheDev's Stats](https://github-readme-stats.vercel.app/api?username=ShameekTheDev&theme=dark&show_icons=true&hide_border=true&count_private=true) ![ShameekTheDev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShameekTheDev&theme=dark&hide_border=true) ![ShameekTheDev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShameekTheDev&theme=dark&show_icons=true&hide_border=true&layout=compact)
