@@ -11,8 +11,8 @@
  
 <div>
 
-- 🔭 *Currently* working on **Rebuilding Myself** 👨‍💻
-- 🌱 I’m currently learning **React.js**.
+- 🔭 *Currently* working on **YELLIPSE** 👨‍💻
+- 🌱 I’m currently learning **//NOTHING// :(**.
 - 💬 Ask me about anything, anytime 😄
 - 😄 Pronouns: He/Him .
 - ⚡ Fun fact: A graphic designer as well...😁.
