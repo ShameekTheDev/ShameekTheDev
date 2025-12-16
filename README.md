@@ -1,7 +1,5 @@
 <h1>Hi there, I am Shameek <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-<img src="https://media0.giphy.com/media/L8K62iTDkzGX6/giphy.gif?cid=ecf05e47fkipy4imwscvqyf4ji2ozuzet6rffihacyr5j0pb&rid=giphy.gif&ct=g" align="right" alt="Coder GIF" width="480" height="300" style="border-radius: 20px;">
- 
 <div>
 
 - 🔭 *Currently* working on **YELLIPSE** 👨‍💻
