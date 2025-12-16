@@ -1,7 +1,7 @@
 <h1>Hi there, I am Shameek <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 <div>
-🔭 *Currently* working on **YELLIPSE** 👨‍💻
+<span>Here is my emoji: <img src="https://www.emoji.family/api/emojis/1f52d/fluent/svg" alt="" style="width: 1.2em; height: 1.2em;" /></span> *Currently* working on **YELLIPSE** 👨‍💻
 🌱 I’m currently learning **//NOTHING// :(**.
 💬 Ask me about anything, anytime 😄
 😄 Pronouns: He/Him .
