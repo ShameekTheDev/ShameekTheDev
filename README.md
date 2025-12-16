@@ -1,22 +1,26 @@
 <h1>Hi there, I am Shameek <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 <div>
-<span><img src="https://www.emoji.family/api/emojis/1f52d/fluent/svg" alt="" style="width: 1.2em; height: 1.2em;" />Currently working on YELLIPSE 👨‍💻</span> 
+<span>
+  <img src="https://www.emoji.family/api/emojis/1f52d/fluent/svg" alt="" style="width: 1.2em; height: 1.2em;" />
+  Currently working on YELLIPSE 👨‍💻
+</span>
+<br>
 <span>
   <img src="https://www.emoji.family/api/emojis/1f331/fluent/svg" alt="" style="width: 1.2em; height: 1.2em;" />
   I’m currently learning NOTHING :(
 </span>
-
+<br>
 <span>
   <img src="https://www.emoji.family/api/emojis/1f4ac/fluent/svg" alt="" style="width: 1.2em; height: 1.2em;" />
   Ask me about anything, anytime 😄
 </span>
-
+<br>
 <span>
   <img src="https://www.emoji.family/api/emojis/1f604/fluent/svg" alt="" style="width: 1.2em; height: 1.2em;" />
   Pronouns: He/Him
 </span>
-
+<br>
 <span>
   <img src="https://www.emoji.family/api/emojis/26a1/fluent/svg" alt="" style="width: 1.2em; height: 1.2em;" />
   Fun fact: A graphic designer as well 😁
