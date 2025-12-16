@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 😎 About Me:
 🔭 I’m currently working on YELLIPSE<br>🤝 I’m looking for help with Warehouse+<br>🌱 I’m currently learning Nothing :(<br>⚡ Fun fact: Graphic Designer as well!
 
 
