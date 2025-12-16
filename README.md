@@ -1,8 +1,3 @@
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
-
-<div style="font-family: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;">
 <h1>Hi there, I am Shameek <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 <div>
@@ -67,4 +62,3 @@
 <a href="https://app.daily.dev/power_dev"><img src="https://api.daily.dev/devcards/v2/aYjKTNZrPzRdiaFWBlx3I.png?type=wide&r=2yd" width="652" alt="Shameek Biswas's Dev Card"/></a>
 
 ![ShameekTheDev's Stats](https://github-readme-stats.vercel.app/api?username=ShameekTheDev&theme=dark&show_icons=true&hide_border=true&count_private=true) ![ShameekTheDev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShameekTheDev&theme=dark&hide_border=true) ![ShameekTheDev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShameekTheDev&theme=dark&show_icons=true&hide_border=true&layout=compact)
-</div>
