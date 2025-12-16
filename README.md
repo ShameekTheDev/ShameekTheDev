@@ -2,10 +2,26 @@
 
 <div>
 <span><img src="https://www.emoji.family/api/emojis/1f52d/fluent/svg" alt="" style="width: 1.2em; height: 1.2em;" />Currently working on YELLIPSE 👨‍💻</span> 
-🌱 I’m currently learning **//NOTHING// :(**.
-💬 Ask me about anything, anytime 😄
-😄 Pronouns: He/Him .
-⚡ Fun fact: A graphic designer as well...😁.
+<span>
+  <img src="https://www.emoji.family/api/emojis/1f331/fluent/svg" alt="" style="width: 1.2em; height: 1.2em;" />
+  I’m currently learning NOTHING :(
+</span>
+
+<span>
+  <img src="https://www.emoji.family/api/emojis/1f4ac/fluent/svg" alt="" style="width: 1.2em; height: 1.2em;" />
+  Ask me about anything, anytime 😄
+</span>
+
+<span>
+  <img src="https://www.emoji.family/api/emojis/1f604/fluent/svg" alt="" style="width: 1.2em; height: 1.2em;" />
+  Pronouns: He/Him
+</span>
+
+<span>
+  <img src="https://www.emoji.family/api/emojis/26a1/fluent/svg" alt="" style="width: 1.2em; height: 1.2em;" />
+  Fun fact: A graphic designer as well 😁
+</span>
+
 </div>
 
 **FRAMEWORK & STACK**
