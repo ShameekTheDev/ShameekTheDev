@@ -5,22 +5,18 @@
   <img src="https://www.emoji.family/api/emojis/1f52d/fluent/svg" alt="" style="width: 1.2em; height: 1.2em;" />
   Currently working on YELLIPSE 👨‍💻
 </h3>
-<br>
 <h3>
   <img src="https://www.emoji.family/api/emojis/1f331/fluent/svg" alt="" style="width: 1.2em; height: 1.2em;" />
   I’m currently learning NOTHING :(
 </h3>
-<br>
 <h3>
   <img src="https://www.emoji.family/api/emojis/1f4ac/fluent/svg" alt="" style="width: 1.2em; height: 1.2em;" />
   Ask me about anything, anytime 😄
 </h3>
-<br>
 <span>
   <img src="https://www.emoji.family/api/emojis/1f604/fluent/svg" alt="" style="width: 1.2em; height: 1.2em;" />
   Pronouns: He/Him
 </span>
-<br>
 <h3>
   <img src="https://www.emoji.family/api/emojis/26a1/fluent/svg" alt="" style="width: 1.2em; height: 1.2em;" />
   Fun fact: A graphic designer as well 😁
