@@ -1,60 +1,27 @@
-<h1>Hi there, I am Shameek <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+# 💫 About Me:
+🔭 I’m currently working on YELLIPSE<br>🤝 I’m looking for help with Warehouse+<br>🌱 I’m currently learning Nothing :(<br>⚡ Fun fact: Graphic Designer as well!
 
-<div>
-<h4>
-  <img src="https://www.emoji.family/api/emojis/1f52d/fluent/svg" alt="" style="width: 1.2em; height: 1.2em;" />
-  Currently working on YELLIPSE 👨‍💻
-</h4>
-<h4>
-  <img src="https://www.emoji.family/api/emojis/1f331/fluent/svg" alt="" style="width: 1.2em; height: 1.2em;" />
-  I’m currently learning NOTHING :(
-</h4>
-<h4>
-  <img src="https://www.emoji.family/api/emojis/1f4ac/fluent/svg" alt="" style="width: 1.2em; height: 1.2em;" />
-  Ask me about anything, anytime 😄
-</h4>
-<h4>
-  <img src="https://www.emoji.family/api/emojis/1f604/fluent/svg" alt="" style="width: 1.2em; height: 1.2em;" />
-  Pronouns: He/Him
-</h4>
-<h4>
-  <img src="https://www.emoji.family/api/emojis/26a1/fluent/svg" alt="" style="width: 1.2em; height: 1.2em;" />
-  Fun fact: A graphic designer as well 😁
-</h4>
 
-</div>
+## 🌐 Socials:
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/shameek.bsky.social) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shameeeeekkk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shameekbiswas27) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shameek_biswas) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:60140shameekbiswas@gmail.com) 
 
-**FRAMEWORK & STACK**
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ShameekTheDev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ShameekTheDev&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShameekTheDev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-black?style=for-the-badge&logo=tailwindcss)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ShameekTheDev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-**Languages**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ShameekTheDev&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<h3 align="left">Design:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> </p>
+---
+[![](https://visitcount.itsvg.in/api?id=ShameekTheDev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### Experienced with  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>   
-<a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
-<a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" /></a>  
-<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-</div>
-
-<a href="https://app.daily.dev/power_dev"><img src="https://api.daily.dev/devcards/v2/aYjKTNZrPzRdiaFWBlx3I.png?type=wide&r=2yd" width="652" alt="Shameek Biswas's Dev Card"/></a>
-
-![ShameekTheDev's Stats](https://github-readme-stats.vercel.app/api?username=ShameekTheDev&theme=dark&show_icons=true&hide_border=true&count_private=true) ![ShameekTheDev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShameekTheDev&theme=dark&hide_border=true) ![ShameekTheDev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShameekTheDev&theme=dark&show_icons=true&hide_border=true&layout=compact)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
